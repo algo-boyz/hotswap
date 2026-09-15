@@ -1,0 +1,3 @@
+/Users/macbas/work/concept/hotswap/build/CMakeFiles/hotswap.dir
+/Users/macbas/work/concept/hotswap/build/CMakeFiles/edit_cache.dir
+/Users/macbas/work/concept/hotswap/build/CMakeFiles/rebuild_cache.dir

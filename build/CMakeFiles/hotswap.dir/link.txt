@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/hotswap.dir/src/main.cpp.o -o hotswap   -L/build/src  -L/Users/macbas/work/libs/onnxruntime-osx-arm64-1.29.0/lib  -Wl,-rpath,/build/src -Wl,-rpath,/Users/macbas/work/libs/onnxruntime-osx-arm64-1.29.0/lib -lonnxruntime
